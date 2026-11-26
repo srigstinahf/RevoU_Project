@@ -4,7 +4,7 @@
 
 Proyek ini bertujuan untuk menganalisis perilaku pengguna pada platform e-commerce berdasarkan data aktivitas pengguna (*event data*). Analisis dilakukan untuk memahami pola aktivitas pengguna, tren penggunaan platform, preferensi perangkat, serta proses konversi dari pencarian produk ke aktivitas penambahan produk ke keranjang belanja.
 
-Proyek ini menggunakan Python untuk proses data cleaning dan exploratory data analysis (EDA), serta Google Sheets/Excel untuk pengolahan data, analisis tambahan, dan pembuatan dashboard.
+Proyek ini menggunakan Python untuk proses data cleaning dan exploratory data analysis (EDA), serta Google Sheets/Excel untuk pengolahan data, analisis tambahan, dan pembuatan dashboard. Link sheets: https://docs.google.com/spreadsheets/d/1SEwRPfnftOkhTOhkWIox6JhOO8YSb-HRYrRBA4JaJOQ/edit?usp=sharing
 
 ## Tools yang Digunakan
 
